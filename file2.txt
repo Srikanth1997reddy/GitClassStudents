@@ -1,0 +1,1 @@
+This is file2.txt file. i.e second text file .In this we can write any data.
